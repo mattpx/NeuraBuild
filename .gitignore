@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+/build/
+/app/build/
+/app/release/
+*.apk
+*.aab
+*.jks
+*.keystore
+# Bundled binaries (user provides, not in git):
+app/src/main/assets/*.tar.gz
+app/src/main/jniLibs/arm64-v8a/*.so
